@@ -6,7 +6,7 @@ Some dotfiles and a theme for the default macOS Terminal app. Adds git informati
 
 ### Based on:
 
-### [Dotfiles by @mathiasbynens'](https://mths.be/dotfiles)
+### [Dotfiles by @mathiasbynens](https://mths.be/dotfiles)
 
 ### [Solarized Dark Yosemite theme for terminal by @jcberthon](https://github.com/jcberthon/solarized/blob/master/osx-terminal.app-colors-solarized/Solarized%20Dark%20Yosemite.terminal)
 
