@@ -8,7 +8,7 @@ Some dotfiles and a theme for the default macOS Terminal app. Adds git informati
 
 ### [Dotfiles by @mathiasbynens'](https://mths.be/dotfiles)
 
-### [Solarized Dark Yosemite theme for terminal by @jcberthon] (https://github.com/jcberthon/solarized/blob/master/osx-terminal.app-colors-solarized/Solarized%20Dark%20Yosemite.terminal)
+### [Solarized Dark Yosemite theme for terminal by @jcberthon](https://github.com/jcberthon/solarized/blob/master/osx-terminal.app-colors-solarized/Solarized%20Dark%20Yosemite.terminal)
 
 ### [Shawn O. Pearce's git-completion](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
 
@@ -45,5 +45,4 @@ Next open `~/.bashrc` with your favorite editor and copy the contents of the .ba
 
 If you do not have a `~/.bash_profile` and a `~/.git_completion`, you can simply copy these files to your home directory.
 
-Double clicking on the Solarized Dark Yosemite theme will add it as a profile to Terminal and you can then set it as the default.
-
+Double clicking on the Solarized Dark Yosemite theme will add it as a profile to Terminal and you can then set it as the default. Use Menlo Regular 13 pt with 1 for both character and line spacing.
